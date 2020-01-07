@@ -1,0 +1,103 @@
+body {
+border-style: solid;
+border-color: #800000;
+
+background-color: black;
+background-image: url("https://i.pinimg.com/originals/85/9a/97/859a979dd668fb7afa05883a0e34d27e.png");
+ 
+}
+.heading.border {
+   border-style: solid;
+border-color: #b30000;
+margin: 20px;
+padding: 9px;
+display: block;
+}
+img {
+    width:400px;
+    border-style: solid;
+border-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
+h1 {
+    font-family: 'Rye';
+color: darkred;
+text-align: center;
+font-size: 50px;
+text-shadow:2px 2px #ff3456;
+}
+
+h2.movie {
+ color: darkorange;  
+font-family: 'Bree Serif';
+text-align: center;
+font-size: 40px;
+}
+h3.movie {
+  color: magenta;
+font-family: 'Courgette';
+text-align: center;
+font-size: 30px;
+ text-shadow: 1px 1px #b3b3ff;
+}
+h2.game {
+  color: gold;  
+ font-family: 'Kaushan Script';
+text-align: center;
+font-size: 40px;
+text-shadow: 2px 2px #3399ff;
+}
+h3.game {
+    color: lightgrey;
+font-family: 'Pacifico';
+text-align: center;
+font-size: 30px;
+text-shadow: 2px 2px #3399ff;
+}
+h2.show {
+    font-family: 'Alex Brush';
+color: lightblue;
+text-align: center;
+font-size: 40px;
+text-shadow: 1px 2px #3399ff;
+}
+h3.show {
+    font-family: 'Merienda One';
+color: orange;
+text-align: center;
+font-size: 30px;
+text-shadow: 2px 2px #ff3456;
+}
+h2.artist {
+color: teal;
+text-align: center;
+font-size: 40px;
+font-family: 'Pattaya';
+text-shadow: 2px 2px #ff3456;
+}
+h3.artist {
+    color: magenta;
+font-family: 'Galada';
+text-align: center;
+font-size: 30px;
+height: 20px;
+text-shadow: 1px 1px #e699ff;
+}
+h2.media {
+  color:  #cc0000;
+  text-shadow: 1px 1px #ff9999;
+text-align: center;
+font-family: 'Cookie';
+font-size: 40px;
+height: 30px;
+}
+h3.media {
+    color: #66d9ff;
+    text-align: center;
+    text-shadow: 1px 1px #0086b3;
+font-family: 'Cookie';
+font-size: 30px;
+height: 20px;
+}
